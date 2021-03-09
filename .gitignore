@@ -17,9 +17,12 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
+*.pdb
+*.opendb
 
 # Unity3D generated meta files
 *.pidb.meta
+*.pbd.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
@@ -32,3 +35,19 @@ sysinfo.txt
 .vs
 Release/
 Debug/
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+#log files, for some plugins
+*.log
+
+#python bytecode cache, for some plugins.
+*.pyc
