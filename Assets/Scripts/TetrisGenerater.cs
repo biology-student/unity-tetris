@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TetrisGenerater : MonoBehaviour
 {
-    public 
+    public Gameobject;
 
     void Update()
     {
